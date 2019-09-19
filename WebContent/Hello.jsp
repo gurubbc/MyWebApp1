@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> Line 2 JSP</h1>
+<h1> Line 3 kanna JSP</h1>
 </body>
 </html>
