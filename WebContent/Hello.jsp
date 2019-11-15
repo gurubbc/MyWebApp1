@@ -8,7 +8,6 @@
 </head>
 <body>
 <h1> Jenkins is excellent1</h1>
-<h1> Just one more line</h1>
-<h1> Sanjay</h1>
+<h1> Today is 15-Nov-2019</h1>
 </body>
 </html>
